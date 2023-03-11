@@ -1,0 +1,10 @@
+{
+  "name": "World Of Madness",
+  "description": "Music pack for SH2 featuring World Of Madness music track.",
+  "author": "Akira Yamaoka | AleksP",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
